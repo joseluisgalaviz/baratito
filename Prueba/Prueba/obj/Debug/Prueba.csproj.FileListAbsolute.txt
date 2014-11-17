@@ -1,0 +1,10 @@
+c:\users\josegalaviz\documents\visual studio 2013\Projects\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\JoseGalaviz\Source\Repos\baratito\Prueba\Prueba\obj\Debug\Prueba.pdb
